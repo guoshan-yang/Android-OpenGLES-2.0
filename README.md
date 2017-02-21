@@ -1,6 +1,7 @@
 # Android OpenGLES2.0 编程教程系列
 本文解释了怎样在一个简单的应用Activity中完成GLSurfaceView 和 GLSurfaceView.Renderer的极简实现。
 原文地址：https://developer.android.com/training/graphics/opengl/environment.html
+
 翻译地址：http://blog.csdn.net/u011520181/article/details/51525766
 ### 在注册文件中声明OpenGL ES使用
 
